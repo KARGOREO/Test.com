@@ -1,5 +1,5 @@
 def volume_a():
-    h = float(input("Enter Number : "))
+    h = 3
     sum = h**3
     print(sum)
 
